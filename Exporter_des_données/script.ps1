@@ -23,4 +23,4 @@ foreach ($row in $csv) {
 }
 
 # Exporter les données dans un fichier texte 
-$table | Format-Table -Property Hostname, Domainname, osversion, Lastseen -AutoSize | Out-File "C:\Users\VivoBook\Downloads\version W10\export.txt" -Encoding UTF8
+$table | Format-Table -Property Hostname, Domainname, osversion, Lastseen -AutoSize | Out-File "C:\le chemin vers mon fichiers csv\export.txt" -Encoding UTF8
