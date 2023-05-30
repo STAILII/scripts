@@ -1,9 +1,9 @@
 
-Ce Script PowerShell est crée pour but d'importer des données de logs à partir d'un fichier CSV (exporter d'un EDR) et de les exporter dans un fichier texte avec des colonnes séparées par des espaces afin de faciliter leur lecture et enelever tout les éléments non voulu et d'importer les données facilement en tableau excel.
+This PowerShell script is designed to import log data from a CSV file (exported from an EDR) and export it to a text file with space-separated columns, making it easier to read. It removes any unwanted elements and allows for easy data import into an Excel table.
 
-les informations à extraire :
+The information to extract includes:
 
-- hostname
-- domainname
-- osversion
-- lastseen. 
+- Hostname
+- Domain name
+- OS version
+- Last seen date/time
