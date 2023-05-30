@@ -1,3 +1,3 @@
 # scripts
 
-ce repository contient une collection de scripts Powershell pour automatiser diverses tâches comme l'installation d'un logiciel ou l'extraction des données pour gagner plus de temps.  
+This repository contains a collection of PowerShell scripts to automate various tasks such as software installation or data extraction, aiming to save time :) 
